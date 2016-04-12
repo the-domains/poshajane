@@ -1,0 +1,14 @@
+layout_spectrum: 0.437276
+color:
+  saturation: 0.6372638
+  lightness: 0.8308146
+  brandStrength: 0.814361
+  brandColors:
+    - '#000000'
+    - '#80FF00'
+    - '#FFFFFF'
+    - '#CFCFCF'
+    - '#393939'
+  rhythmicContrast: 0.7620162
+typography_spectrum: 0.08064516
+name: 'PoshaJane '
