@@ -1,14 +1,26 @@
-layout_spectrum: 0.437276
 color:
   saturation: 0.6372638
-  lightness: 0.8308146
   brandStrength: 0.814361
+  rhythmicContrast: 0.7620162
   brandColors:
     - '#000000'
     - '#80FF00'
     - '#FFFFFF'
     - '#CFCFCF'
     - '#393939'
-  rhythmicContrast: 0.7620162
+  lightness: 0.8308146
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.437276
 typography_spectrum: 0.08064516
 name: 'PoshaJane '
