@@ -1,41 +1,41 @@
-name: 'PoshaJane '
-favicon: null
-layout_spectrum: 0.437276
-typography_spectrum: 0.08064516
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.437276
 title: Posha Jane
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.6372638
+  brandStrength: 0.814361
+  rhythmicContrast: 0.7620162
   brandColors:
     - '#000000'
     - '#80FF00'
     - '#FFFFFF'
     - '#CFCFCF'
     - '#393939'
-  brandStrength: 0.814361
   lightness: 0.8308146
-  saturation: 0.6372638
-  rhythmicContrast: 0.7620162
 purpose: []
+favicon: null
+name: 'PoshaJane '
+typography_spectrum: 0.08064516
